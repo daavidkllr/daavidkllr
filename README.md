@@ -28,8 +28,6 @@ Some personal stuffs:
   * Design pattern
 </details>
 
----
-
 <details>
   <summary>:brain:Personal experiences</summary>
   
