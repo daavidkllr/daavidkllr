@@ -1,4 +1,6 @@
-### Hi, I'm [David](https://daavidkllr.dev), welcome to my profile 👋 ![visitors](https://visitor-badge.glitch.me/badge?page_id=daavidkllr)
+### Hi, I'm [David](https://daavidkllr.dev), welcome to my profile 👋
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=daavidkllr)  
 
 I'm a 23 y.o passionated full-stack web developer from germany :de:
 
