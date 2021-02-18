@@ -1,8 +1,4 @@
-### Hi, I'm [David](https://daavidkllr.dev) 👋
-
-[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://daavidkllr.dev/)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/daavidkllr)
-![visitors](https://visitor-badge.glitch.me/badge?page_id=daavidkllr)
+### Hi, I'm [David](https://daavidkllr.dev), welcome to my profile 👋 ![visitors](https://visitor-badge.glitch.me/badge?page_id=daavidkllr)
 
 I'm a 23 y.o passionated full-stack web developer from germany :de:
 
@@ -29,7 +25,7 @@ Some personal stuffs:
 </details>
 
 <details>
-  <summary>:brain:Personal experiences</summary>
+  <summary>:brain: Personal experiences</summary>
   
   * Symfony Framework
   * eZ Platform CMS
@@ -43,4 +39,7 @@ Some personal stuffs:
 
 ---
 
-:mailbox:	Feel free to contact me!
+:mailbox:	Feel free to contact me:
+* [https://daavidkllr.dev](https://daavidkllr.dev)
+* [daavidkllr@outlook.de](mailto:daavidkllr@outlook.de)
+* [@daavidkllr](https://twitter.com/daavidkllr)
