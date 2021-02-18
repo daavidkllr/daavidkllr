@@ -15,26 +15,33 @@ Some personal stuffs:
 
 ---
 
-Some things that I'm intressted in:
-* :rocket: PHP
-* :computer: C#
-* :zap: JavaScript
-* :art: CSS / SCSS
-* :trollface: HTML
-* :toolbox: Infrastructure setup
-* :construction: System engineering
-* :book: Design pattern
+<details>
+  <summary>:zap: Some things that I'm intressted in</summary>
+  
+  * PHP
+  * C#
+  * JavaScript
+  * CSS / SCSS
+  * HTML (:trollface: )
+  * Infrastructure setup
+  * System engineering
+  * Design pattern
+</details>
 
 ---
 
-Experiences:
-* Symfony Framework
-* eZ Platform CMS
-* JavaScript: React, Redux, jQuery, NodeJs, Webpack, Esbuild, 
-* CSS: SCSS, BEM, SuitCSS
-* Ansible
-* Docker / Vagrant
-* And some more
+<details>
+  <summary>:brain:Personal experiences</summary>
+  
+  * Symfony Framework
+  * eZ Platform CMS
+  * JavaScript: React, Redux, jQuery, NodeJs, Webpack, Esbuild, 
+  * CSS: SCSS, BEM, SuitCSS
+  * Ansible
+  * Docker / Vagrant
+  * And some more
+
+</details>
 
 ---
 
