@@ -29,13 +29,20 @@ Some personal stuffs:
 <details>
   <summary>:brain: Personal experiences</summary>
   
-  * Symfony Framework
-  * eZ Platform CMS
-  * JavaScript: React, Redux, jQuery, NodeJs, Webpack, Esbuild, 
+  * PHP Symfony Framework
+  * PHP Doctrine
+  * PHP Testing (PHPUnit, PHPCS, PHPStan)
+  * PHP eZ Platform CMS
+  * C# .AspCoreNET
+  * C# Entityframework
+  * JavaScript: React, Redux
+  * JavaScript: AngularJS
+  * NodeJs: Webpack, EsBuild
   * CSS: SCSS, BEM, SuitCSS
   * Ansible
-  * Docker / Vagrant
-  * And some more
+  * Docker
+  * Vagrant
+  * And much more :sweat_smile:
 
 </details>
 
