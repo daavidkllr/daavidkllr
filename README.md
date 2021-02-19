@@ -7,9 +7,9 @@ I'm a 23 y.o passionated full-stack web developer from germany :de:
 ---
 
 Some personal stuffs:
-* :rocket: trying my best to get involved inside some open source projects
-* :globe_with_meridians: working on my personal portfolio website
-* :books: learning things about common design patterns
+* :rocket: Trying my best to get involved in some open source projects.
+* :hammer: Working on my personal portfolio website.
+* :books: Learning things about common design patterns.
 
 ---
 
@@ -49,6 +49,6 @@ Some personal stuffs:
 ---
 
 :mailbox:	Feel free to contact me:
-* [https://daavidkllr.dev](https://daavidkllr.dev)
+* [daavidkllr.dev](https://daavidkllr.dev)
 * [daavidkllr@outlook.de](mailto:daavidkllr@outlook.de)
 * [@daavidkllr](https://twitter.com/daavidkllr)
