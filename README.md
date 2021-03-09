@@ -9,7 +9,6 @@ I'm a 23 y.o passionated full-stack web developer from germany :de:
 Some personal stuffs:
 * :rocket: Trying my best to get involved in some open source projects.
 * :hammer: Working on my personal portfolio website.
-* :books: Learning things about common design patterns.
 
 ---
 
@@ -32,9 +31,7 @@ Some personal stuffs:
   * PHP Symfony Framework
   * PHP Doctrine
   * PHP Testing (PHPUnit, PHPCS, PHPStan)
-  * PHP eZ Platform CMS
-  * C# .AspCoreNET
-  * C# Entityframework
+  * C#
   * JavaScript: React, Redux
   * JavaScript: AngularJS
   * NodeJs: Webpack, EsBuild
