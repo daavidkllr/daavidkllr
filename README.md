@@ -1,11 +1,10 @@
-<br/><br/><br/>
-<h3 align="center">
- 👋 <br/><br/>
-Hi, I'm David, welcome to my profile!
-</h3>
-<br/><br/><br/>
-
+<br/>
+<h1 align="center">
+Welcome to my profile 👋
+</h1>
+<br/>
 <p>
+    Hi, I am David! <br/>
     I'm a 23 y.o professional full-stack web developer from :de: with 7 years experience in building scalable web applications.</p>
 <p>
     I started getting passionate about developing at the age of 16. <br>First I started some simple websites and since then I kept learning day by day on my own until now.
