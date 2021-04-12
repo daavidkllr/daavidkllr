@@ -1,7 +1,9 @@
-<h1 align="center">
- 👋 <br/>
+<br/><br/><br/>
+<h3 align="center">
+ 👋 <br/><br/>
 Hi, I'm David, welcome to my profile!
-</h1>
+</h3>
+<br/><br/><br/>
 
 <p>
     I'm a 23 y.o professional full-stack web developer from :de: with 7 years experience in building scalable web applications.</p>
@@ -15,7 +17,44 @@ Hi, I'm David, welcome to my profile!
     Last but no least, I take everything with humour, I like to work with young and crazy people. 🤪.
 </p>
 
+---
+
+<details>
+  <summary>:zap: Some things that I'm intressted in</summary>
+  
+  * PHP
+  * C#
+  * JavaScript / NodeJS
+  * CSS / SCSS
+  * HTML (:trollface: )
+  * Infrastructure setup
+  * System engineering
+  * Design pattern
+  * CI / CD
+</details>
+
+<details>
+  <summary>:brain: Personal experiences</summary>
+  
+  * C# ASP .NET Core
+  * PHP Symfony Framework
+  * PHP Doctrine
+  * PHP Testing (PHPUnit, PHPCS, PHPStan)
+  * React
+  * Redux
+  * Webpack
+  * CSS: SCSS, BEM, SuitCSS
+  * Ansible
+  * Docker
+  * Vagrant
+  * And much more :sweat_smile:
+
+</details>
+
+---
+
 :mailbox: Feel free to contact me:
 * [daavidkllr.dev](https://daavidkllr.dev)
 * [daavidkllr@outlook.de](mailto:daavidkllr@outlook.de)
 * [@daavidkllr](https://twitter.com/daavidkllr)
+
