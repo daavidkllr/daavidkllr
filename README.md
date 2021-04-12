@@ -15,8 +15,6 @@ Hi, I'm David, welcome to my profile!
     Last but no least, I take everything with humour, I like to work with young and crazy people. 🤪.
 </p>
 
----
-
 :mailbox: Feel free to contact me:
 * [daavidkllr.dev](https://daavidkllr.dev)
 * [daavidkllr@outlook.de](mailto:daavidkllr@outlook.de)
