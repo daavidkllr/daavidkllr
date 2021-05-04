@@ -12,9 +12,6 @@ Welcome to my profile 👋
 <p>
     I take care in the experience, architecture, and code quality of the things I build. <br>Everything getting checked twice, a good and clean code is the foundation for every growing project. <br>I am familiar with the common principles and code patterns and try to adhere to them as much as possible.
 </p>
-<p>
-    Last but no least, I take everything with humour, I like to work with young and crazy people. 🤪.
-</p>
 
 ---
 
