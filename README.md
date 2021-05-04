@@ -5,7 +5,7 @@ Welcome to my profile 👋
 <br/>
 <p>
     Hi, I am David! <br/>
-    I'm a 23 y.o professional full-stack web developer from :de: with 7 years experience in building scalable web applications.</p>
+    I'm a 23 y.o professional full-stack web developer from Germany with 7 years experience in building scalable web applications.</p>
 <p>
     I started getting passionate about developing at the age of 16. <br>First I started some simple websites and since then I kept learning day by day on my own until now.
 </p>
